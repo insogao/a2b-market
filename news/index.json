@@ -1,0 +1,17 @@
+{
+  "category": {
+    "id": "news",
+    "title": "News",
+    "summary": "News and newsroom browsing workflows"
+  },
+  "entries": [
+    {
+      "id": "news/reuters",
+      "title": "Reuters",
+      "summary": "Reuters browsing notes for current headlines and finance items",
+      "sourceType": "local_doc",
+      "sourceUrl": "news/reuters.md",
+      "tags": ["news", "reuters", "finance"]
+    }
+  ]
+}

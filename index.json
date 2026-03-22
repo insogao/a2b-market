@@ -1,0 +1,24 @@
+{
+  "version": "0.1.0",
+  "title": "A2B Market",
+  "categories": [
+    {
+      "id": "search",
+      "title": "Search",
+      "summary": "Search engines and site-specific search workflows",
+      "path": "search/index.json"
+    },
+    {
+      "id": "news",
+      "title": "News",
+      "summary": "News and newsroom browsing workflows",
+      "path": "news/index.json"
+    },
+    {
+      "id": "multimedia",
+      "title": "Multimedia",
+      "summary": "Video, audio, and media download references",
+      "path": "multimedia/index.json"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "category": {
+    "id": "multimedia",
+    "title": "Multimedia",
+    "summary": "Video, audio, and media download references"
+  },
+  "entries": [
+    {
+      "id": "multimedia/yt-dlp",
+      "title": "yt-dlp",
+      "summary": "External CLI for media download workflows",
+      "sourceType": "external_tool",
+      "sourceUrl": "https://github.com/yt-dlp/yt-dlp",
+      "tags": ["multimedia", "download", "cli"]
+    }
+  ]
+}

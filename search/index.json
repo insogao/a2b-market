@@ -1,0 +1,33 @@
+{
+  "category": {
+    "id": "search",
+    "title": "Search",
+    "summary": "Search engines and site-specific search workflows"
+  },
+  "entries": [
+    {
+      "id": "search/baidu",
+      "title": "Baidu Search",
+      "summary": "Baidu search tips and reliable query submission patterns",
+      "sourceType": "local_doc",
+      "sourceUrl": "search/baidu.md",
+      "tags": ["search", "baidu", "query"]
+    },
+    {
+      "id": "search/google",
+      "title": "Google Search",
+      "summary": "Google search usage notes and navigation patterns",
+      "sourceType": "local_doc",
+      "sourceUrl": "search/google.md",
+      "tags": ["search", "google", "query"]
+    },
+    {
+      "id": "search/bing",
+      "title": "Bing Search",
+      "summary": "Bing search usage notes and result exploration patterns",
+      "sourceType": "local_doc",
+      "sourceUrl": "search/bing.md",
+      "tags": ["search", "bing", "query"]
+    }
+  ]
+}
