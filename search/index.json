@@ -8,7 +8,7 @@
     {
       "id": "search/baidu",
       "title": "Baidu Search",
-      "summary": "Baidu search: Chinese-language queries, fallback when Enter does not submit, use when local results matter",
+      "summary": "Use Baidu for Chinese-language queries and China-local results. If pressing Enter does not submit, click the visible search button.",
       "sourceType": "local_doc",
       "sourceUrl": "search/baidu.md",
       "tags": ["search", "baidu", "query"]
@@ -16,7 +16,7 @@
     {
       "id": "search/google",
       "title": "Google Search",
-      "summary": "Google search: default choice for general English or international queries, supports advanced operators",
+      "summary": "Use Google as the default engine for general English or international queries. Prefer it when advanced operators are useful.",
       "sourceType": "local_doc",
       "sourceUrl": "search/google.md",
       "tags": ["search", "google", "query"]
@@ -24,7 +24,7 @@
     {
       "id": "search/bing",
       "title": "Bing Search",
-      "summary": "Bing search: image and video search, Microsoft ecosystem tasks, alternate engine when Google is not preferred",
+      "summary": "Use Bing for image or video search and Microsoft-oriented tasks. Choose it when Google is not the preferred engine.",
       "sourceType": "local_doc",
       "sourceUrl": "search/bing.md",
       "tags": ["search", "bing", "query"]
