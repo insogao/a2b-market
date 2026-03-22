@@ -7,10 +7,11 @@
   "entries": [
     {
       "id": "multimedia/yt-dlp",
-      "title": "yt-dlp",
-      "summary": "External CLI for media download workflows",
+      "title": "yt-dlp (External Tool)",
+      "summary": "External CLI tool for downloading videos from YouTube and other sites. Not included with A2B.",
       "sourceType": "external_tool",
       "sourceUrl": "https://github.com/yt-dlp/yt-dlp",
+      "docPath": "multimedia/yt-dlp.md",
       "tags": ["multimedia", "download", "cli"]
     }
   ]

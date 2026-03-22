@@ -8,7 +8,7 @@
     {
       "id": "search/baidu",
       "title": "Baidu Search",
-      "summary": "Baidu search tips and reliable query submission patterns",
+      "summary": "Baidu search: Chinese-language queries, fallback when Enter does not submit, use when local results matter",
       "sourceType": "local_doc",
       "sourceUrl": "search/baidu.md",
       "tags": ["search", "baidu", "query"]
@@ -16,7 +16,7 @@
     {
       "id": "search/google",
       "title": "Google Search",
-      "summary": "Google search usage notes and navigation patterns",
+      "summary": "Google search: default choice for general English or international queries, supports advanced operators",
       "sourceType": "local_doc",
       "sourceUrl": "search/google.md",
       "tags": ["search", "google", "query"]
@@ -24,7 +24,7 @@
     {
       "id": "search/bing",
       "title": "Bing Search",
-      "summary": "Bing search usage notes and result exploration patterns",
+      "summary": "Bing search: image and video search, Microsoft ecosystem tasks, alternate engine when Google is not preferred",
       "sourceType": "local_doc",
       "sourceUrl": "search/bing.md",
       "tags": ["search", "bing", "query"]
